@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/iuvo-ai/chatbot-rag-templates">
-    <img src="[public/favicon.ico](https://imgur.com/gjn8q4e)" alt="Logo" width="470" height="150">
-  </a>
+    <img src="https://imgur.com/gjn8q4e" alt="Logo" width="470" height="150">
 <h2 align="center">iuvo-ai RAG template</h2>
 
 <!-- TABLE OF CONTENTS -->
