@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://i.imgur.com/gjn8q4e.png" alt="Logo">
+    <img src="https://i.imgur.com/9YwJsO2.png" alt="Logo">
 <h2 align="center">RAG template</h2>
 
 <!-- TABLE OF CONTENTS -->
