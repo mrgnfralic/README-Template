@@ -11,7 +11,7 @@
 <h3 align="center">iuvo-ai RAG template</h3>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details align="left">
   <summary>Quick Nav</summary>
   <ol>
     <li>
