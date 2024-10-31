@@ -4,18 +4,16 @@
 <br />
 <div align="center">
   <a href="https://github.com/iuvo-ai/chatbot-rag-templates">
-    <img src="public/favicon.ico" alt="Logo" width="80" height="80">
+    <img src="[public/favicon.ico](https://imgur.com/gjn8q4e)" alt="Logo" width="470" height="150">
   </a>
-
-<h2 align="center">Frontend Design</h3>
-<h3 align="center">iuvo-ai RAG template</h3>
+<h2 align="center">iuvo-ai RAG template</h2>
 
 <!-- TABLE OF CONTENTS -->
 <details align="left">
   <summary>Quick Nav</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Preview</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -36,7 +34,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- Preview -->
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
