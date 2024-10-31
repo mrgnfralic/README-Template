@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://imgur.com/gjn8q4e" alt="Logo" width="470" height="150">
+    <img src="https://i.imgur.com/gjn8q4e.png" alt="Logo" width="470" height="150">
 <h2 align="center">iuvo-ai RAG template</h2>
 
 <!-- TABLE OF CONTENTS -->
