@@ -1,14 +1,5 @@
 <a id="readme-top"></a>
 
-
-
-<!-- PROJECT SHIELDS -->
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
