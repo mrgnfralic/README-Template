@@ -7,9 +7,8 @@
     <img src="public/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
-
-
+<h2 align="center">Frontend Design</h3>
+<h3 align="center">iuvo-ai RAG template</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
