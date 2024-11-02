@@ -8,7 +8,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details align="left">
+<details>
   <summary>Quick Nav</summary>
   <ol>
     <li>
@@ -21,7 +21,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#running-the-application">Running the Application</a></li>
+        <li><a href="#run-manually">Running the Application</a></li>
       </ul>
     </li>
     <li><a href="#storybook">Storybook</a></li>
@@ -44,7 +44,7 @@
 
 ### Built With
 
-* [![React][React.js]][React-url]
+[![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,9 +68,8 @@ This application requires `poetry` in order to run the python server.
    poetry install --no-root
    ```
 
-## Running the application
+## Run Manually
 
-## Manually
 ### Start python server
 1. Navigate to applications backend
    ```sh
@@ -112,26 +111,6 @@ Storybook allows us to interact with the applications existing components and pr
    ```sh
    npm run storybook
    ```
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Login page
-- [ ] Main application
-    - [ ] Global document storage
-
-See [open issues](https://github.com/iuvo-ai/chatbot-rag-templates/issues) for a full list of proposed features (and known issues).
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
