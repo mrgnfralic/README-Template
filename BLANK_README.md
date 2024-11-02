@@ -1,18 +1,18 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![React][React.js]][React-url]
-[![Docker][Docker]][Docker-url]
-[![Storybook][Storybook.js]][Storybook-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
     <img src="https://i.imgur.com/9YwJsO2.png" alt="Logo">
 <h2 align="center">RAG template</h2>
 </div>
+
+<!-- PROJECT SHIELDS -->
+<p align="center">
+[![React][React.js]][React-url]
+[![Docker][Docker]][Docker-url]
+[![Storybook][Storybook.js]][Storybook-url]
+</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
