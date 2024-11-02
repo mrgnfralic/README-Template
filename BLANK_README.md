@@ -104,7 +104,7 @@ Storybook allows us to interact with the applications existing components and pr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.imgur.com/vF1rfb2.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Docker]:https://img.shields.io/badge/Docker-%231286C5?style=for-the-badge
