@@ -1,9 +1,12 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+<div align="center">
 [![React][React.js]][React-url]
 [![Docker][Docker]][Docker-url]
 [![Storybook][Storybook.js]][Storybook-url]
+</div>
+<br>
 
 
 <!-- PROJECT LOGO -->
