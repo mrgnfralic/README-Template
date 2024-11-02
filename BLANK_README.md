@@ -8,11 +8,9 @@
 </div>
 
 <!-- PROJECT SHIELDS -->
-<p align="center">
 [![React][React.js]][React-url]
 [![Docker][Docker]][Docker-url]
 [![Storybook][Storybook.js]][Storybook-url]
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
