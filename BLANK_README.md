@@ -5,6 +5,7 @@
 <div align="center">
     <img src="https://i.imgur.com/9YwJsO2.png" alt="Logo">
 <h2 align="center">RAG template</h2>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details align="left">
@@ -32,11 +33,9 @@
 
 
 
-<!-- Preview -->
-## Preview
+<!-- Preview Image -->
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
