@@ -11,7 +11,7 @@
   <summary>Quick Nav</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Preview</a>
+      <a href="#preview">Preview</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -33,11 +33,11 @@
 
 
 <!-- Preview -->
-## About The Project
+## Preview
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,8 +105,11 @@ This application requires `poetry` in order to run the python server.
 Storybook allows us to interact with the applications existing components and prototype new ones that will allow us to easily change out component styles for demos or client branding
 
 ### Launch Storybook.js
-1. Navigate to the project's root
-2. Start Storybook; (https://localhost:6006/)
+1. Navigate to the strorybook folder
+   ```sh
+   cd storybook
+   ```
+3. Start Storybook; (https://localhost:6006/)
    ```sh
    npm run storybook
    ```
