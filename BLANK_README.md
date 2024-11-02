@@ -1,5 +1,11 @@
 <a id="readme-top"></a>
 
+<!-- PROJECT SHIELDS -->
+[![React][React.js]][React-url]
+[![Docker][Docker]][Docker-url]
+[![Storybook][Storybook.js]][Storybook-url]
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -9,14 +15,9 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Quick Nav</summary>
+  <summary>Quick Navigation</summary>
   <ol>
-    <li>
-      <a href="#preview">Preview</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#preview">Preview</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -25,9 +26,6 @@
       </ul>
     </li>
     <li><a href="#storybook">Storybook</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -39,15 +37,6 @@
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-[![React][React.js]][React-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -116,13 +105,12 @@ Storybook allows us to interact with the applications existing components and pr
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/iuvo-ai/chatbot-rag-templates/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/company/iuvo-ai-technologies
 [product-screenshot]: images/screenshot.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Docker]:https://img.shields.io/badge/Docker-%231286C5?style=for-the-badge
+[Docker-url]: https://www.docker.com/
+[Storybook.js]: https://img.shields.io/badge/Storybook.js-%23ff4885?style=for-the-badge
+[Storybook-url]: https://storybook.js.org/
+
 
